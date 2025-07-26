@@ -1,0 +1,5 @@
+hts-cache/
+hts-log.txt
+*.log
+cdn-cgi/
+gdpr/
