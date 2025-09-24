@@ -3,3 +3,4 @@ hts-log.txt
 *.log
 cdn-cgi/
 gdpr/
+.vercel
